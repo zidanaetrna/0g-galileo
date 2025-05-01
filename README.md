@@ -24,22 +24,28 @@ This bot provides automated functionality for interacting with the 0G Galileo te
 
 ## Setup
 
-1. Setup Virtual Environtment:
+1. Clone Repositories:
+   ```bash
+   git clone https://github.com/zidanaetrna/0g-galileo && cd 0g-galileo
+   ```
+
+
+2. Setup Virtual Environtment:
    ```bash
    python3 -m venv venv
    ```
 
-2. Open Virtual Environtment:
+3. Open Virtual Environtment:
    ```bash
    source venv/bin/activates
    ```
 
-3. Install requirements:
+4. Install requirements:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. (Optional) Add proxies to `proxies.txt`
+5. (Optional) Add proxies to `proxies.txt`
 
 ## Usage
 
