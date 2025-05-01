@@ -37,7 +37,7 @@ This bot provides automated functionality for interacting with the 0G Galileo te
 
 3. Open Virtual Environtment:
    ```bash
-   source venv/bin/activates
+   source venv/bin/activate
    ```
 
 4. Install requirements:
